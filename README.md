@@ -1,14 +1,16 @@
-# Rose
+# 🌹 Rose
 
 ## Overview
-Rose is a project primarily built using HTML, CSS, and JavaScript. This repository contains the source code and documentation for the project.
+Rose is a project primarily built using **HTML**, **CSS**, and **JavaScript**. This repository contains the source code and documentation for the project.
+
+![HTML](https://img.shields.io/badge/HTML-72%25-orange) ![CSS](https://img.shields.io/badge/CSS-21.8%25-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-6.2%25-yellow)
 
 ## Project Structure
 - **HTML (72%)**: The main markup for the project, defining the structure and content.
 - **CSS (21.8%)**: Stylesheets used to control the appearance and layout of the project.
 - **JavaScript (6.2%)**: Scripts to add interactivity and dynamic behavior to the project.
 
-## Getting Started
+## 🚀 Getting Started
 To get started with the Rose project, follow these steps:
 
 1. **Clone the repository**:
@@ -23,7 +25,7 @@ To get started with the Rose project, follow these steps:
 
 3. **Open the `index.html` file in your browser** to view the project.
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 1. **Fork the repository**.
@@ -44,8 +46,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 5. **Create a pull request** to the main repository.
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+## 📧 Contact
 For any questions or issues, please contact [ashwanik0777](https://github.com/ashwanik0777).
