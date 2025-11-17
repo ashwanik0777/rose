@@ -25,6 +25,7 @@ To get started with the Rose project, follow these steps:
 
 3. **Open the `index.html` file in your browser** to view the project.
 
+
 ## 🤝 Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
@@ -46,8 +47,12 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 5. **Create a pull request** to the main repository.
 
+
+
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
 
 ## 📧 Contact
 For any questions or issues, please contact [ashwanik0777](https://github.com/ashwanik0777).
